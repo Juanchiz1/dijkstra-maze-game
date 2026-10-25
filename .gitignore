@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Progreso local del jugador (se crea al jugar)
+progreso.json
